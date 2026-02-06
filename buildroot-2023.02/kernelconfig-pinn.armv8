@@ -2,7 +2,7 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 6.6.51 Kernel Configuration
 #
-CONFIG_CC_VERSION_TEXT="aarch64-buildroot-linux-gnu-gcc.br_real (Buildroot p3.9.2-4-g386d682d) 11.3.0"
+CONFIG_CC_VERSION_TEXT="aarch64-buildroot-linux-gnu-gcc.br_real (Buildroot p3.9.3-18-g10bf3a6f) 11.3.0"
 CONFIG_CC_IS_GCC=y
 CONFIG_GCC_VERSION=110300
 CONFIG_CLANG_VERSION=0
@@ -5982,7 +5982,17 @@ CONFIG_USB_DWC3_IMX8MP=y
 CONFIG_USB_DWC3_XILINX=y
 CONFIG_USB_DWC3_AM62=y
 CONFIG_USB_DWC3_OCTEON=y
-# CONFIG_USB_DWC2 is not set
+CONFIG_USB_DWC2=y
+# CONFIG_USB_DWC2_HOST is not set
+
+#
+# Gadget/Dual-role mode requires USB Gadget support to be enabled
+#
+# CONFIG_USB_DWC2_PERIPHERAL is not set
+CONFIG_USB_DWC2_DUAL_ROLE=y
+# CONFIG_USB_DWC2_PCI is not set
+# CONFIG_USB_DWC2_DEBUG is not set
+# CONFIG_USB_DWC2_TRACK_MISSED_SOFS is not set
 # CONFIG_USB_CHIPIDEA is not set
 # CONFIG_USB_ISP1760 is not set
 
