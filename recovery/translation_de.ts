@@ -943,15 +943,15 @@ Soll fortgesetzt werden?</translation>
     </message>
     <message>
         <source>install</source>
-        <translation>installieren</translation>
+        <translation>Installation</translation>
     </message>
     <message>
         <source>reinstall</source>
-        <translation>neu installieren</translation>
+        <translation>Neuistallation</translation>
     </message>
     <message>
         <source>replace</source>
-        <translation>ersetzen</translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <source>USB drive</source>
