@@ -5,7 +5,7 @@
     <name>BackupThread</name>
     <message>
         <source>Finish writing (sync)</source>
-        <translation> Schreibvorgang abschließen (sync)</translation>
+        <translation>Schreibvorgang abschließen (sync)</translation>
     </message>
     <message>
         <source>Cannot backup </source>
