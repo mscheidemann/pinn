@@ -943,11 +943,11 @@ Soll fortgesetzt werden?</translation>
     </message>
     <message>
         <source>install</source>
-        <translation>installieren</translation>
+        <translation>Installation</translation>
     </message>
     <message>
         <source>reinstall</source>
-        <translation>neu installieren</translation>
+        <translation>Neuinstallion</translation>
     </message>
     <message>
         <source>replace</source>
